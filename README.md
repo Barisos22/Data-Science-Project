@@ -19,6 +19,5 @@ Structure of the project:
             2. With Confusion Matrices
         2. Importance of Features    
 4. Conclusion       
-5. Future Work
-6. Work Division
+
 
